@@ -1,0 +1,12 @@
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\VisagieMotors.Repository.dll.config
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\VisagieMotors.Repository.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\VisagieMotors.Repository.pdb
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\Dapper.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\VisagieMotors.Data.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\VisagieMotors.Domain.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\VisagieMotors.Data.pdb
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\VisagieMotors.Domain.pdb
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\bin\Debug\Dapper.xml
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\obj\Debug\VisagieMotors.Repository.csprojResolveAssemblyReference.cache
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\obj\Debug\VisagieMotors.Repository.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Repository\obj\Debug\VisagieMotors.Repository.pdb

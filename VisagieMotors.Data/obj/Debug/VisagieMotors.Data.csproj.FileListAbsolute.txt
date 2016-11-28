@@ -1,0 +1,7 @@
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Data\bin\Debug\VisagieMotors.Data.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Data\bin\Debug\VisagieMotors.Data.pdb
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Data\bin\Debug\VisagieMotors.Domain.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Data\bin\Debug\VisagieMotors.Domain.pdb
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Data\obj\Debug\VisagieMotors.Data.csprojResolveAssemblyReference.cache
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Data\obj\Debug\VisagieMotors.Data.dll
+C:\Users\kids\Documents\Visual Studio 2015\Projects\VisagieMotors\VisagieMotors.Data\obj\Debug\VisagieMotors.Data.pdb

@@ -1,0 +1,46 @@
+﻿@model VisagieMotors.Web.Models.MotorsModel
+
+@{
+    ViewBag.Title = "Available Motors";
+}
+
+<div id="motorsDiv">
+    <div class="row">
+        <h2 class="page-header">Availavle Motors</h2>
+    </div>
+    <div class="col-md-12">
+        <table class="table table-striped" id ="motorsTable">
+            <thead>
+            <tr>
+                <td class="col-md-2">Manufacturer</td>
+                <td class="col-md-2">Type of motor</td>
+                <td class="col-md-5">Model</td>
+                <td class="col-md-3">Price</td>
+            </tr>
+            </thead>
+            <tbody data-bind="foreach: motors">
+            <tr>
+                <td data-bind="text: MotorManufacturer"></td>
+                <td data-bind="text: TypeOfMotor"></td>
+                <td data-bind="text: MotorModel"></td>
+                <td data-bind="text: Price"></td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@section scripts
+{
+    <script>
+        var model = @Html.Raw(Json.Encode(Model));
+
+        var MotorsViewModel = function() {
+            var self = this;
+            self.motors = model.Motors;
+        };
+
+        ko.applyBindings(new MotorsViewModel(), document.getElementById("motorsDiv"));
+    </script>
+}
+
